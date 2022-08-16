@@ -2,11 +2,11 @@
 
 ## Starter pack includes:
 
-- express
-- helmet
-- mongoose
-- yup
-- custom error handler
+- `express`
+- `helmet`
+- `mongoose`
+- `yup`
+- `custom error handler`
 
 ## Getting started
 
